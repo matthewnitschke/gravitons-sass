@@ -15,3 +15,6 @@ gulp.task('sass', function(){
       .pipe(rename("gravitons.min.css"))
       .pipe(gulp.dest('dist'));
 })
+
+
+gulp.task('default', ['sass']);
