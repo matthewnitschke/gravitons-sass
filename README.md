@@ -1,5 +1,5 @@
 # Gravitons-Sass
-A slimmed down version of [gravitons](https://github.com/jxnblk/gravitons)
+A slimmed down version of [gravitons](https://github.com/jxnblk/gravitons) with a few extra classes
 
 # Building
 ```
