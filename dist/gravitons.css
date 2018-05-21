@@ -284,13 +284,16 @@
 .dif {
   display: inline-flex; }
 
-.fsb {
+.fdc {
+  flex-direction: column; }
+
+.jcsb {
   justify-content: space-between; }
 
-.fsa {
+.jcsa {
   justify-content: space-around; }
 
-.fcv {
+.aic {
   align-items: center; }
 
 .fl {
